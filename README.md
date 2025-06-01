@@ -1,4 +1,4 @@
-Welcome to the Afentic AI Agents repository! This project showcases the design, implementation, and operational details of intelligent agents built using LangGraph and LlamaIndex.
+Welcome to the Agentic AI Agents repository! This project showcases the design, implementation, and operational details of intelligent agents built using LangGraph and LlamaIndex.
 
 🚀 Core Highlights:
 
