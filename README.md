@@ -1,6 +1,6 @@
 Welcome to the Agentic AI Agents repository! This project showcases the design, implementation, and operational details of intelligent agents built using LangGraph and LlamaIndex.
 
-🚀 Core Highlights:
+Core Highlights:
 
 Agentic Workflow with LangGraph: Construct dynamic, multi-step reasoning agents using LangGraph to manage decision flows, memory, and tool orchestration.
 
@@ -10,4 +10,4 @@ Modular Architecture: Clean, extensible codebase designed for easy experimentati
 
 Documentation & Demos: Includes step-by-step implementation guides, configuration examples, and usage demos for rapid understanding and onboarding.
 
-💡 Whether you're building enterprise copilots, research assistants, or workflow-automation agents, this repository provides a solid foundation to kickstart your projects.
+Whether you're building enterprise copilots, research assistants, or workflow-automation agents, this repository provides a solid foundation to kickstart your projects.
